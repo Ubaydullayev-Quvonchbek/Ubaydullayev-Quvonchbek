@@ -6,7 +6,7 @@
 
 <div align="center">
   <img height="220" src="./avatar.png" />
-  <img width="50px" />
+  <img width="25px" />
   <img height="220" src="./person.png" />
 </div>
 
