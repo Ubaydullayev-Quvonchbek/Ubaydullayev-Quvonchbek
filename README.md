@@ -5,8 +5,9 @@
 <br clear="both">
 
 <div align="center">
-  <img style="border-radius: 50em; margin-right: 25px;" height="220" src="./avatar.png"  />
-  <img style="border-radius: 50em; margin-left: 25px;" height="220" src="./person.png"  />
+  <img height="220" src="./avatar.png" />
+  <img width="50px" />
+  <img height="220" src="./person.png" />
 </div>
 
 ###
